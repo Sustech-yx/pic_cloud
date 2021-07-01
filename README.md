@@ -8,3 +8,4 @@ Then, you need a high definition picture. For example, 5000*3000 piexls. The mor
 Then, you should have python3.6 and many required packages. If you are using Anaconda3, that is enough.
 
 Ops, it seems like that I cannot add a picture to a README.md. So, you can just clone this repository, and the low definition pictures are in /src_50. The high definition picture is des.jpg. After run the main.py, you get 'liutao_colored.jpg' and 'liutao_gray.jpg'. By the way, Liu Tao is a famous Chinese actress and she is my idol.
+"# pic_cloud" 
